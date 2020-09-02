@@ -21,7 +21,7 @@ A simple Flask App that can classify an image as Dog or Cat using a convolutiona
 - Heroku
 <br>
 <br>
-<br>
+
 
 ## Credit
 Credit to the following repository: </br>
