@@ -14,3 +14,15 @@ A simple Flask App that can classify an image as Dog or Cat using a convolutiona
 </p>
 
 ## Used Tools
+- Tensorflow
+- Keras
+- Flask
+- Heroku
+- Numpy
+
+    
+    
+    
+    
+  
+    
