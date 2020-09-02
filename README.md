@@ -14,11 +14,17 @@ A simple Flask App that can classify an image as Dog or Cat using a convolutiona
 </p>
 
 ## Used Tools
+- Numpy
 - Tensorflow
 - Keras
 - Flask
 - Heroku
-- Numpy
+
+# Credit
+Credit to the following repository.
+https://github.com/kayveen/DogorCat
+
+
 
     
     
